@@ -7,6 +7,12 @@ https://community.jisc.ac.uk/janet-apps/whois
 
 and output to a csv.
 
+Output looks like:
+
+Domain owner:Domain
+Example Town Council:example.gov.uk
+Example University:example.ac.uk
+
 This is a WHOIS server for querying registrations under ac.uk and gov.uk.
 
 1. Edit domains.txt
