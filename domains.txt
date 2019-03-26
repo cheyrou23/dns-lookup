@@ -1,2 +1,2 @@
-example.com
-example2.net
+example.gov.uk
+example2.ac.uk
