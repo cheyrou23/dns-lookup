@@ -1,11 +1,11 @@
 Domain names DNS lookup
 ==========
 
-Simple bash script to get WHOIS info from Jisc:
+Simple bash script to get the domain owner from WHOIS info from Jisc:
 
 https://community.jisc.ac.uk/janet-apps/whois
 
-for a list of domain names output to a csv.
+and output to a csv.
 
 This is a WHOIS server for querying registrations under ac.uk and gov.uk.
 
